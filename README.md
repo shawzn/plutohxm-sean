@@ -26,8 +26,8 @@ email     : seannoname07@gmail.com
 web       : hxms.web.id
 ```
 
-- 🛰️ Currently deep-diving into **BGP routing & network failover scenarios**
-- 🔭 Building homelab infrastructure for hands-on practice
+- 🛰️ Currently deep-diving into routing & network failover scenarios**
+- 🔭 Research about infrastructure for hands-on practice
 - ☁️ Exploring **AWS serverless** and cloud-native architecture
 - 📡 Passionate about how packets travel end-to-end across the internet
 
