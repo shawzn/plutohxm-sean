@@ -19,7 +19,7 @@
 
 ```yaml
 name      : Sean Antonio Tarigan
-alias     : plutohxm-sean  •  he/him
+alias     : shawzn  •  he/him
 education : Internet Engineering — PENS (Politeknik Elektronika Negeri Surabaya)
 focus     : Network Engineering, Cloud Infrastructure
 email     : seannoname07@gmail.com
